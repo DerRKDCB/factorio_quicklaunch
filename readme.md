@@ -55,8 +55,8 @@ Starts Factorio without any flags for a standard game session.
 Clone:
 
 ```bash
-git clone https://github.com/yourname/factorio-quicklaunch.git
-cd factorio-quicklaunch
+git clone https://github.com/yourname/factorio_quicklaunch.git
+cd factorio_quicklaunch
 ````
 
 Install dependencies:
@@ -75,6 +75,20 @@ python3 quicklaunch.py
 
 ```bash
 cp factorio-quicklaunch.desktop ~/.local/share/applications/
+```
+
+Replace /path/to/quicklaunch.py with your actual file path.
+
+```bash
+[Desktop Entry]
+Name=Factorio Quicklaunch
+Comment=Launcher for Factorio with quick actions and server list
+Exec=python3 /path/to/quicklaunch.py
+Icon=factorio
+Terminal=false
+Type=Application
+Categories=Game;
+StartupNotify=true
 ```
 
 ---
