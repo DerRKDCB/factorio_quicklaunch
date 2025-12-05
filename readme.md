@@ -77,13 +77,13 @@ python3 quicklaunch.py
 cp factorio-quicklaunch.desktop ~/.local/share/applications/
 ```
 
-Replace /path/to/quicklaunch.py with your actual file path.
+Replace /path/to/factorio_quicklaunch.py with your actual file path.
 
 ```bash
 [Desktop Entry]
 Name=Factorio Quicklaunch
 Comment=Launcher for Factorio with quick actions and server list
-Exec=python3 /path/to/quicklaunch.py
+Exec=python3 /path/to/factorio_quicklaunch.py
 Icon=factorio
 Terminal=false
 Type=Application

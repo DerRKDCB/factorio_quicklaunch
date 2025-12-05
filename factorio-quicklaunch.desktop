@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Factorio Quicklaunch
+Comment=Launcher for Factorio with quick actions and server list
+Exec=python3 /path/to/quicklaunch.py
+Icon=factorio
+Terminal=false
+Type=Application
+Categories=Game;
+StartupNotify=true
