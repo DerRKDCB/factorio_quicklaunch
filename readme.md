@@ -1,4 +1,8 @@
-# 🚀 Factorio Quicklaunch  
+# 🚀 Factorio Quicklaunch
+
+![Screenshot 1](res/img/screenshot_quicklaunch1.png)
+=======
+# 🚀 Factorio Quicklaunch
 ### A KDE Plasma Launcher for Factorio (Fedora-Friendly)
 
 **Factorio Quicklaunch** is a lightweight, Plasma-native launcher designed for Fedora + KDE users who want a clean and fast way to start Factorio.
@@ -94,6 +98,11 @@ Passwords are stored in **KWallet** if available, otherwise in a fallback encryp
 
 ---
 
+## 🖼️ Screenshot
+
+![Screenshot 2](res/img/screenshot_quicklaunch2.png)
+![Screenshot 3](res/img/screenshot_quicklaunch3.png)
+=======
 ## 🖼️ Screenshot
 
 *(Insert when UI is finished)*
