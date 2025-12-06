@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
 Factorio Launcher for KDE Plasma / Fedora
+https://github.com/DerRKDCB/factorio_quicklaunch
 Features:
  - Launch Factorio normally
  - Continue with last local save
